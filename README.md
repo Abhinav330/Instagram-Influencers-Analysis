@@ -1,3 +1,13 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/709f87abe4a24b56842715d13d55dfc1)](https://app.codacy.com/gh/Abhinav330/Instagram-Influncers-Analysis/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Instagram-Influncers-Analysis/matplotlib?color=gold)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Instagram-Influncers-Analysis/numpy?color=gold)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Instagram-Influncers-Analysis/pandas?color=yellow)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Instagram-Influncers-Analysis/scikit-learn?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Instagram-Influncers-Analysis/scipy?color=beige)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Instagram-Influncers-Analysis/seaborn?color=gold)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Instagram-Influncers-Analysis?color=dark%20green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/Instagram-Influncers-Analysis)
+
 # Instagram Profiles Data Analysis
 
 ## Introduction
